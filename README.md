@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/jo%C3%A3ogomes11/" target="_blanck"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"<a>
+<a href="https://www.linkedin.com/in/jo%C3%A3ogomes11/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"<a>
 <a href="https://www.instagram.com/joao.g11/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
